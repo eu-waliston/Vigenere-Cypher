@@ -8,20 +8,20 @@ The text can be encrypted and decrypted using the Vigenere cypher algorithm. Cae
 
 1. Enter the term and the plaintext.
 2. To make the keyword the length of the plaintext, repeat it.
-3. 3. Implement modular addition of the repeated keyword and the plaintext when encrypting data.
+3. Implement modular addition of the repeated keyword and the plaintext when encrypting data.
 
-Ci = Pi + Ki(mod m)
+    Ci = Pi + Ki(mod m)
 
-Where Ci is the cipher text,
+    Where Ci is the cipher text,
 
-Pi is the plaintext,
+    Pi is the plaintext,
 
-Ki is the repeating keyword, and 'm' is the length of the alphabet.
+    Ki is the repeating keyword, and 'm' is the length of the alphabet.
 
 4. Decryption: Perform modular subtraction of key phrases from the cipher text.
 
-Pi = Ci - Ki
+    Pi = Ci - Ki
 
-(mod m)
+    (mod m)
 
 5. Display the encrypted and decrypted message as well.
