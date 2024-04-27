@@ -1,3 +1,6 @@
+![Vigenere](https://github.com/eu-waliston/Vigenere-Cypher/assets/82295321/e37ea883-8efb-44e4-92fa-829a6885e5e2)
+
+
 # Vigenere Cypher Program in Java
 
 ### Introduction:
